@@ -37,7 +37,7 @@ export default defineConfig({
 			short_name: "Harshith reddy", // optional
 			description: siteConfig.description,
 			lang: siteConfig.lang,
-			icon: "public/icons/favicon.ico", // the source for generating favicon & icons
+			icon: "public/icons/favicon-310x310.png", // the source for generating favicon & icons
 			start_url: "/",
 			background_color: "#1d1f21",
 			theme_color: "#2bbc8a",
