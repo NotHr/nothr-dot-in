@@ -41,7 +41,7 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "Blog",
 	},
 	{
-		path: "/resume/",
+		path: "/resume.pdf",
 		title: "Resume",
 	},
 ];
